@@ -18,6 +18,20 @@ methods from scratch, creating a integrator for the two physical systems conside
 
 
 
+# Models 
+
+Let's see the models and the equations. As I said before the models are 2 : 
+
+1) The motion of a satellite in an atmosphere can be modeled by the following system : 
+
+![model1](https://github.com/senad96/DegreeThesis/blob/master/model1.png?raw=true)
+
+
+2) The temporal evolution of a compound pendulum subjected to a external force can be model by the following system : 
+
+![model1](https://github.com/senad96/DegreeThesis/blob/master/model2.png?raw=true)
+
+
 
 
 # Code
