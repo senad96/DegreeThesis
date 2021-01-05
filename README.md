@@ -18,29 +18,6 @@ methods from scratch, creating a integrator for the two physical systems conside
 
 
 
-# Models and ALgorithms used :
-
-
-The models, as I said before, are 2 non linear systems : 
-
-1. The motion of a satellite in an atmosphere can be modeled via the following equation : 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Code
