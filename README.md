@@ -12,8 +12,8 @@ In this project I will describe some basic techniques and algorithms that are us
 1. The motion of a satellite in an atmosphere
 1. The temporal evolution of a compound pendulum subjected to a external force.
 
-The importance of the algorithms themselves in the study and simulation of dynamic systems will be discussed.
-For a greater understanding of simulation methods and for greater comparison among the various algorithms, we have implemented some 
+The importance of the algorithms in the study of dynamic systems will be discussed as well.
+For a greater understanding of simulation methods and for greater comparison among the various algorithms, I have implemented some 
 methods from scratch, creating a integrator for the two physical systems considered. The language used is Python.
 
 
@@ -45,4 +45,4 @@ At this point, running the *evolve.py* file with the right parameters will start
 
 # More Details
 
-If you are interested, I would recommend you to read the final report "Relazione_finale.pdf" in PDF ( in Italian, sorry ), where you can find all details about the algorithms and the results.
+If you are interested, I would recommend you to read the final report "Relazione_finale.pdf" in PDF ( for now in Italian, sorry ), where you can find all details about the algorithms and the results.
