@@ -1,7 +1,7 @@
 # A Comparison of Numerical Algorithms in Applied Physics Simulations
 
 
-In This Repository you can read and download my *Bachelor's Degree thesis in Computer Science*. I have built an integrator that models 2 physical systems and performs different simulations with different numerical algorithms.
+In This Repository you can read and download my **Bachelor's Degree thesis in Computer Science**. I have built an integrator that models 2 physical systems and performs different simulations with different numerical algorithms.
 
 
 
