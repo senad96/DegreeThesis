@@ -1,6 +1,6 @@
-# DegreeThesis
+# A Comparison of Numerical Algorithms in Applied Physics Simulations
 
-In This Repository you can read and download my Bachelor's Degree thesis ( in Computer Science ) . I have built an integrator that models 2 physical systems and performs different simulations with different numerical algorithms.
+In This Repository you can read and download my $ \emph{Bachelor's Degree thesis ( in Computer Science )} $. I have built an integrator that models 2 physical systems and performs different simulations with different numerical algorithms.
 
 The programming language used is Python and the code is organized in several files, each of which implements an Numerical Algorithm (algoritmo_Eulero.py, algoritmo_RK4.py, algoritmo_Verlet.py ). 
 
