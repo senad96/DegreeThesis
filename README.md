@@ -32,6 +32,9 @@ Let's see the models and the equations. As I said before the models are 2 :
 ![model1](https://github.com/senad96/DegreeThesis/blob/master/model2.png?raw=true)
 
 
+Read the Report "Relazione_finale.pdf" for a better understanding of the equations.
+
+
 
 
 # Code
